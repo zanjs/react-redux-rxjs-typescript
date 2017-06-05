@@ -1,7 +1,7 @@
 ﻿
  **A template for building advanced web apps using React, Redux, RxJS, and Typescript**
  
- ## Technologies:
+ ## Technologies
 - React
 - Redux
 - RxJS (via Redux-Observable)
@@ -9,10 +9,10 @@
 - Boostrap
 - Typescript
 
-## Features:
+## Features
 - Ajax and websocket examples
 - Hot module replacement for components, reducers, and epics
 - Separate app and vendor webpack bundles
 
-## Credits:
+## Credits
 [ASP.Net Core SPA Services React-Redux Template](https://github.com/aspnet/JavaScriptServices/tree/dev/templates/ReactReduxSpa)
