@@ -15,5 +15,13 @@
 - Hot module replacement for components, reducers, and epics
 - Separate app and vendor webpack bundles
 
+## Instructions
+`
+git clone https://github.com/aalhamoudi/react-redux-rxjs-typescript
+cd react-redux-rxjs-typescript\RRRT
+npm install
+npm start
+`
+
 ## Credits
 [ASP.Net Core SPA Services React-Redux Template](https://github.com/aspnet/JavaScriptServices/tree/dev/templates/ReactReduxSpa)
