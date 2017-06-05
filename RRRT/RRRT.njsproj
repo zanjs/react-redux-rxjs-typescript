@@ -43,9 +43,6 @@
     <Content Include="dist\vendor-manifest.json" />
     <Content Include="dist\vendor.css" />
     <Content Include="package.json" />
-    <Content Include="README.md">
-      <SubType>Code</SubType>
-    </Content>
     <Content Include="routes.tsx" />
     <Content Include="styles\app.css" />
     <Content Include="tsconfig.json" />

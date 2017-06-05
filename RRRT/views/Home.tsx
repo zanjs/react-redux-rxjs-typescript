@@ -8,6 +8,7 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
         return <div>
             <h1>Home</h1>
             <hr />
+            <p><strong>A template for building advanced web apps using React, Redux, RxJS, and Typescript</strong></p>
             <h3>Technologies:</h3>
             <ul>
                 <li>React</li>
@@ -26,7 +27,7 @@ export default class Home extends React.Component<RouteComponentProps<{}>, {}> {
             </ul>
             <h3>Credits:</h3>
             <ul>
-                <li><a>ASP.Net Core SPA Services React-Redux Template</a></li>
+                <li><a href="https://github.com/aspnet/JavaScriptServices/tree/dev/templates/ReactReduxSpa">ASP.Net Core SPA Services React-Redux Template</a></li>
 
             </ul>
         </div>;
