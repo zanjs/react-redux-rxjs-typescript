@@ -1,4 +1,7 @@
-﻿## Technologies:
+﻿
+ **A template for building advanced web apps using React, Redux, RxJS, and Typescript**
+ 
+ ## Technologies:
 - React
 - Redux
 - RxJS (via Redux-Observable)
