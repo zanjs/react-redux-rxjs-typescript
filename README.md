@@ -8,6 +8,7 @@
 - React Router V4
 - Boostrap
 - Typescript
+- Webpack
 
 ## Features
 - Ajax and websocket examples
