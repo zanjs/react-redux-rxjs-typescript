@@ -2,6 +2,9 @@
  **A template for building advanced web apps using React, Redux, RxJS, and Typescript**
  
  ## Technologies
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-redux-rxjs-typescript.svg)](https://greenkeeper.io/)
+
 - React
 - Redux
 - RxJS (via Redux-Observable)
